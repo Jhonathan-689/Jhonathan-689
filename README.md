@@ -1,9 +1,7 @@
 ## Olá! Eu sou o jhonathan Alves
 
-- 👾 Estou cursando Análise e desenvolvimento de sistemas
-- 👾 Estudando Desenv. Web em Html5, Css, Javascript e Php
-- 👾 Estudando programação em Python
-- 👾 Estudando banco de Dados
+- 👾 Estou cursando Tecnologia em Análise e desenvolvimento de sistemas
+
 
 <div>
   <a href="https://github.com/Jhonathan-689">
